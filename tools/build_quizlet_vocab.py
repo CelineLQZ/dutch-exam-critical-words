@@ -1,6 +1,10 @@
 import json
 import math
 import re
+import socket
+import time
+import urllib.parse
+import urllib.request
 import zipfile
 from pathlib import Path
 from xml.etree import ElementTree as ET
@@ -11,9 +15,11 @@ DOCX = Path("/Users/liceline/Desktop/荷兰融入考试阅读/荷兰语阅读听
 WORDS_OUT = ROOT / "words.json"
 AUDIT_OUT = ROOT / "translation-audit.md"
 READINGS = ROOT / "readings.json"
+EXTERNAL_CACHE = ROOT / "tools" / ".tatoeba-example-cache.json"
 
 NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 WORD_RE = re.compile(r"[A-Za-zÀ-ÿ']+")
+socket.setdefaulttimeout(2.5)
 
 TRANSLATION_FIXES = {
     "afhalen": "to pick up / collect",
@@ -186,12 +192,12 @@ def pos_for(nl, en):
         return "phrase"
     if low_nl.startswith(("de ", "het ")):
         return "noun"
-    if low_en.startswith("to ") or low_nl.split()[0].endswith("en"):
-        return "verb"
     if low_nl in {"al", "allebei", "alleen", "anders", "beneden", "boven", "eerder", "echt", "ergens", "erg", "gelukkig", "genoeg", "meteen", "mogelijk", "net", "uiteindelijk", "vaak", "vaker", "vroeger", "vroeg", "weg", "weinig", "zelf", "zonder", "tijdens", "nadat", "als", "over"}:
         return "adverb"
     if any(marker in low_en for marker in ["suitable", "available", "reachable", "married", "wooden", "compulsory", "voluntary", "possible", "needed", "tired", "business (adj.)"]):
         return "adjective"
+    if low_en.startswith("to ") or low_nl.split()[0].endswith("en"):
+        return "verb"
     return "other"
 
 
@@ -221,13 +227,87 @@ def load_exam_sentences():
     return out
 
 
+def load_external_cache():
+    if EXTERNAL_CACHE.exists():
+        return json.loads(EXTERNAL_CACHE.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_external_cache(cache):
+    EXTERNAL_CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def direct_english_translation(translations):
+    for translation in translations or []:
+        if translation.get("lang") == "eng" and translation.get("is_direct") and translation.get("text"):
+            return translation["text"]
+    for translation in translations or []:
+        if translation.get("lang") == "eng" and translation.get("text"):
+            return translation["text"]
+    return ""
+
+
+def fetch_tatoeba_example(query, cache):
+    key = normalize(query)
+    if key in cache:
+        return cache[key]
+    params = [
+        ("lang", "nld"),
+        ("q", query),
+        ("trans:lang", "eng"),
+        ("trans:is_direct", "yes"),
+        ("showtrans:lang", "eng"),
+        ("limit", "8"),
+        ("sort", "relevance"),
+        ("is_unapproved", "no"),
+    ]
+    url = "https://api.tatoeba.org/v1/sentences?" + urllib.parse.urlencode(params)
+    try:
+        with urllib.request.urlopen(url, timeout=2.5) as response:
+            payload = json.load(response)
+        data = payload.get("data") or []
+        result = None
+        for row in data:
+            en = direct_english_translation(row.get("translations"))
+            nl = row.get("text") or ""
+            if nl and en:
+                result = {"nl": nl, "en": en, "source": "Tatoeba"}
+                break
+        cache[key] = result
+    except Exception as exc:
+        cache[key] = {"error": str(exc)}
+    time.sleep(0.02)
+    return cache[key] if cache[key] and not cache[key].get("error") else None
+
+
+def generated_fallback_example(nl, en, pos):
+    clean = nl.strip()
+    if clean.endswith((".", "?")):
+        return {"nl": clean, "en": en.rstrip(".") + ".", "source": "generated fallback"}
+    if pos == "verb":
+        return {"nl": f"Ik moet {bare_nl(clean)}.", "en": f"I have to {en.replace('to ', '', 1)}.", "source": "generated fallback"}
+    if pos == "noun":
+        article = "het" if normalize(clean).startswith("het ") else "de"
+        noun = bare_nl(clean)
+        return {"nl": f"{article.capitalize()} {noun} is belangrijk.", "en": f"The {en.split('/')[0].strip()} is important.", "source": "generated fallback"}
+    return {"nl": f"Ik zie het woord: {clean}.", "en": f"I see the word: {en.split('/')[0].strip()}.", "source": "generated fallback"}
+
+
 def term_patterns(nl):
     raw = bare_nl(nl)
     terms = [raw]
+    if raw == "boemetje":
+        terms.append("boompje")
+    if raw == "thuisbezorgd":
+        terms.append("thuisbezorgen")
+    if raw == "kringloop":
+        terms.append("kringloopwinkel")
+    if normalize(nl).startswith(("de ", "het ")):
+        terms.extend(f["nl"] for f in plural_for(nl))
     if raw.endswith("en") and " " not in raw:
         terms.append(stem_verb(raw))
     words = WORD_RE.findall(raw)
-    terms.extend(w for w in words if len(w) > 3)
+    terms.extend(w for w in words if len(w) >= 3)
     return sorted(set(t for t in terms if t), key=len, reverse=True)
 
 
@@ -247,10 +327,15 @@ def find_example(nl, sentences):
 
 def build_words(rows):
     sentences = load_exam_sentences()
-    lesson_size = math.ceil(len(rows) / 30)
+    external_cache = load_external_cache()
+    lesson_size = 20
     words = []
     audit = []
+    example_counts = {"exam": 0, "external": 0, "generated": 0}
     for i, (nl, original_en) in enumerate(rows):
+        if i and i % 25 == 0:
+            print(f"Processed {i}/{len(rows)} words", flush=True)
+            save_external_cache(external_cache)
         en = TRANSLATION_FIXES.get(nl, original_en)
         if en != original_en or nl in AUDIT_NOTES:
             audit.append((nl, original_en, en, AUDIT_NOTES.get(nl, "")))
@@ -262,13 +347,24 @@ def build_words(rows):
         elif pos == "verb":
             grammar = {"kind": "verb", "forms": verb_forms(nl)}
         example = find_example(nl, sentences)
+        source_kind = "exam"
+        if not example:
+            for query in term_patterns(nl)[:2]:
+                example = fetch_tatoeba_example(query, external_cache)
+                if example:
+                    source_kind = "external"
+                    break
+        if not example:
+            example = generated_fallback_example(nl, en, pos)
+            source_kind = "generated"
+        example_counts[source_kind] += 1
         examples = {}
         exam_examples = {}
         article_les = []
         if example:
             examples = {"a1": {"nl": example["nl"], "en": example["en"]}}
             exam_examples = dict(examples)
-            article_les = [example["les"]]
+            article_les = [example["les"]] if example.get("les") else []
         words.append({
             "nl": nl,
             "en": en,
@@ -283,12 +379,15 @@ def build_words(rows):
             "grammar": grammar,
             "deck": "common",
             "source": "Quizlet reading/listening exam vocabulary",
+            "exampleSource": example.get("source") if example else "",
             "_sourceIndex": i,
         })
-    return words, audit
+    save_external_cache(external_cache)
+    save_external_cache(external_cache)
+    return words, audit, example_counts
 
 
-def write_audit(rows, words, audit):
+def write_audit(rows, words, audit, example_counts):
     matched = sum(1 for w in words if w["examples"])
     counts = {}
     for w in words:
@@ -297,8 +396,9 @@ def write_audit(rows, words, audit):
         "# Translation audit",
         "",
         f"- Source rows: {len(rows)}",
-        f"- Deck lessons: 30",
-        f"- Words with mock-exam examples: {matched}",
+        f"- Deck lessons: {math.ceil(len(rows) / 20)}",
+        f"- Words with examples: {matched}",
+        f"- Example sources: mock exam {example_counts.get('exam', 0)}, Tatoeba {example_counts.get('external', 0)}, generated fallback {example_counts.get('generated', 0)}",
         f"- POS counts: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())),
         "",
         "## Corrections / notes",
@@ -311,9 +411,9 @@ def write_audit(rows, words, audit):
 
 def main():
     rows = read_docx_rows(DOCX)
-    words, audit = build_words(rows)
+    words, audit, example_counts = build_words(rows)
     WORDS_OUT.write_text(json.dumps(words, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    write_audit(rows, words, audit)
+    write_audit(rows, words, audit, example_counts)
     print(f"Wrote {len(words)} words to {WORDS_OUT}")
     print(f"Wrote audit to {AUDIT_OUT}")
 

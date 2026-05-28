@@ -585,12 +585,11 @@ function App() {
   useEffect(() => {
     Promise.all([
       fetch('words.json?' + Date.now()).then(r => r.json()),
-      fetch('readings.json?' + Date.now()).then(r => r.json()).catch(() => []),
       fetch('dictionary.json?' + Date.now()).then(r => r.ok ? r.json() : {}).catch(() => ({}))
     ])
-      .then(([wordData, readingData, dictionaryData]) => {
+      .then(([wordData, dictionaryData]) => {
         setAllWords(wordData.map((w, i) => ({ ...w, _key: wordKey(w, i) })));
-        setReadings(readingData);
+        setReadings([]);
         setExternalDictionary(dictionaryData || {});
         setLoading(false);
       })
@@ -869,6 +868,7 @@ function App() {
     const source = s.mode === 'reading' || s.mode === 'sentence-review' || s.mode === 'sentence-test' ? allSentences : allWords;
     const words = s.words.map(k => byKey.get(k) || source.find(w=>w.nl===k)).filter(Boolean);
     if (!words.length) return null;
+    if (words[0]?.type === 'sentence') return null;
     if (words[0]?.deck === 'ar') return null;
     if ((s.cursor || 0) >= words.length) return null;
     return { ...s, words };
@@ -921,7 +921,6 @@ function App() {
       <HomeScreen user={activeUser}
         stats={allWordStats}
         commonStats={commonWordStats}
-        sentenceStats={allSentenceStats}
         studyListCount={studyList.length}
         todayStats={todayStats}
         prefs={prefs} lessons={lessons} articles={articles} wordCategories={wordCategories}

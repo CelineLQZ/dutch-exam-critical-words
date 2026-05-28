@@ -530,16 +530,13 @@ function StudyListIcon() {
   );
 }
 
-function HomeScreen({ user, stats, commonStats, sentenceStats, studyListCount = 0, onPickContent, onSwitchUser, onShowSettings, continueSession, onContinue }) {
+function HomeScreen({ user, stats, commonStats, studyListCount = 0, onPickContent, onSwitchUser, onShowSettings, continueSession, onContinue }) {
   const primary = { label: 'Reading & Listening Words', total: commonStats?.total || 0, learned: commonStats?.learned || 0, review: commonStats?.forgotten || 0 };
   const libraryRows = [
     { label: primary.label, total: primary.total, learned: primary.learned, review: primary.review, tone: 'keep', icon: <BookIcon />, action: 'common' },
-    { label: 'Sentences', total: sentenceStats?.total || 0, learned: sentenceStats?.learned || 0, review: sentenceStats?.forgotten || 0, tone: 'accent', icon: <ListIcon />, action: 'sentences' },
     { label: 'My Study List', total: studyListCount, learned: 0, review: 0, tone: 'brand', icon: <StudyListIcon />, action: 'studylist', saved: true },
   ];
-  const continueDeck = continueSession?.words?.[0]?.type === 'sentence'
-    ? { label: 'Sentences', total: sentenceStats?.total || 0, learned: sentenceStats?.learned || 0, review: sentenceStats?.forgotten || 0 }
-    : primary;
+  const continueDeck = primary;
   const continueProgress = continueSession?.words?.length
     ? Math.round((continueSession.cursor / continueSession.words.length) * 100)
     : 0;
@@ -1239,7 +1236,7 @@ function StudyListScreen({ items, onBack, onRemove, onStudy }) {
           <div className="studylist-empty">
             <div className="big">📑</div>
             Your study list is empty.<br/>
-            Tap any underlined word in a sentence to add it.
+            Use + Study List on a word card to add it.
           </div>
         ) : (
           <div className="studylist-list">

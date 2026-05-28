@@ -30,6 +30,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.10 Werkrooster Hotel",
     "_sourceIndex": 0
   },
   {
@@ -40,9 +41,24 @@
     "category": "verb",
     "les": 1,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Je bent van de lijst afgehaald.",
+        "en": "You were removed from the list."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Je bent van de lijst afgehaald.",
+        "en": "You were removed from the list."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Je bent van de lijst afgehaald.",
+        "en": "You were removed from the list."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -66,6 +82,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 1
   },
   {
@@ -99,6 +116,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.9 Woorden leren",
     "_sourceIndex": 2
   },
   {
@@ -132,6 +150,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 3
   },
   {
@@ -165,6 +184,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 4
   },
   {
@@ -175,20 +195,36 @@
     "category": "other",
     "les": 1,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "We snurken allebei.",
+        "en": "We both snore."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "We snurken allebei.",
+        "en": "We both snore."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "We snurken allebei.",
+        "en": "We both snore."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 5
   },
   {
     "nl": "alleen",
     "en": "only / alone",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
+    "pos": "adverb",
+    "category": "other",
     "les": 1,
     "articleLes": [
       3
@@ -211,29 +247,10 @@
         "en": "This is only possible on the day of delivery, from 8 o’clock in the morning."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "alle"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "allet"
-        },
-        {
-          "label": "past",
-          "nl": "allede"
-        },
-        {
-          "label": "perfect",
-          "nl": "heeft gealled"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 6
   },
   {
@@ -267,6 +284,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 7
   },
   {
@@ -300,6 +318,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 8
   },
   {
@@ -308,7 +327,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       1
     ],
@@ -333,6 +352,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 9
   },
   {
@@ -341,7 +361,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       4
     ],
@@ -386,6 +406,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 10
   },
   {
@@ -394,11 +415,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 2,
+    "les": 1,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Dat wordt niet aangeraden.",
+        "en": "It's not recommended."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Dat wordt niet aangeraden.",
+        "en": "It's not recommended."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Dat wordt niet aangeraden.",
+        "en": "It's not recommended."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -422,6 +458,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 11
   },
   {
@@ -430,11 +467,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 2,
+    "les": 1,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -458,6 +510,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 12
   },
   {
@@ -466,11 +519,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 2,
+    "les": 1,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Hoeveel apps gebruikt u?",
+        "en": "How many apps do you use?"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -482,6 +550,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 13
   },
   {
@@ -490,7 +559,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       10
     ],
@@ -535,6 +604,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 14
   },
   {
@@ -543,7 +613,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       14
     ],
@@ -568,6 +638,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.4 Ziekmelding",
     "_sourceIndex": 15
   },
   {
@@ -576,7 +647,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       5
     ],
@@ -609,6 +680,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 16
   },
   {
@@ -617,7 +689,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 2,
+    "les": 1,
     "articleLes": [
       15
     ],
@@ -662,6 +734,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.5 Uitnodiging buurtbijeenkomst",
     "_sourceIndex": 17
   },
   {
@@ -670,7 +743,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 3,
+    "les": 1,
     "articleLes": [
       25
     ],
@@ -695,6 +768,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.4 Verkopers Gezocht",
     "_sourceIndex": 18
   },
   {
@@ -703,7 +777,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
+    "les": 1,
     "articleLes": [
       3
     ],
@@ -748,6 +822,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 19
   },
   {
@@ -756,7 +831,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
+    "les": 2,
     "articleLes": [
       3
     ],
@@ -801,6 +876,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 20
   },
   {
@@ -809,11 +885,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Dit bedoel ik.",
+        "en": "What I mean is this."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Dit bedoel ik.",
+        "en": "What I mean is this."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Dit bedoel ik.",
+        "en": "What I mean is this."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -837,15 +928,16 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 21
   },
   {
     "nl": "beneden",
     "en": "downstairs",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
-    "les": 3,
+    "pos": "adverb",
+    "category": "other",
+    "les": 2,
     "articleLes": [
       19
     ],
@@ -867,29 +959,10 @@
         "en": "Do not learn them only from top to bottom, but also from bottom to top and in random order."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "beneed"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "beneedt"
-        },
-        {
-          "label": "past",
-          "nl": "beneedde"
-        },
-        {
-          "label": "perfect",
-          "nl": "heeft beneed"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.9 Woorden leren",
     "_sourceIndex": 22
   },
   {
@@ -898,11 +971,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 3,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Het beroep is complex.",
+        "en": "The profession is complex."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Het beroep is complex.",
+        "en": "The profession is complex."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Het beroep is complex.",
+        "en": "The profession is complex."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -914,6 +1002,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 23
   },
   {
@@ -922,11 +1011,28 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 2,
+    "articleLes": [
+      1
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Zoek uit wanneer u het beste kan leren: ’s morgens, ’s middags of ’s avonds.",
+        "en": "Find out when you can study best: in the morning, in the afternoon, or in the evening."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zoek uit wanneer u het beste kan leren: ’s morgens, ’s middags of ’s avonds.",
+        "en": "Find out when you can study best: in the morning, in the afternoon, or in the evening."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zoek uit wanneer u het beste kan leren: ’s morgens, ’s middags of ’s avonds.",
+        "en": "Find out when you can study best: in the morning, in the afternoon, or in the evening."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -950,6 +1056,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 24
   },
   {
@@ -958,7 +1065,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
+    "les": 2,
     "articleLes": [
       3
     ],
@@ -1003,6 +1110,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 25
   },
   {
@@ -1011,7 +1119,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 3,
+    "les": 2,
     "articleLes": [
       7
     ],
@@ -1056,6 +1164,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 26
   },
   {
@@ -1064,14 +1173,32 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 4,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 2,
+    "articleLes": [
+      1
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Begin met het maken van een planning: wat gaat u wanneer doen?",
+        "en": "Start by making a plan: what are you going to do, and when?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Begin met het maken van een planning: wat gaat u wanneer doen?",
+        "en": "Start by making a plan: what are you going to do, and when?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Begin met het maken van een planning: wat gaat u wanneer doen?",
+        "en": "Start by making a plan: what are you going to do, and when?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 27
   },
   {
@@ -1080,11 +1207,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Het boemetje is belangrijk.",
+        "en": "The small tree is important."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Het boemetje is belangrijk.",
+        "en": "The small tree is important."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Het boemetje is belangrijk.",
+        "en": "The small tree is important."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1096,6 +1238,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "generated fallback",
     "_sourceIndex": 28
   },
   {
@@ -1104,11 +1247,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "De boerderij!",
+        "en": "The farm!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "De boerderij!",
+        "en": "The farm!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "De boerderij!",
+        "en": "The farm!"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1120,6 +1278,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 29
   },
   {
@@ -1128,11 +1287,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "We boerden.",
+        "en": "We farmed."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "We boerden.",
+        "en": "We farmed."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "We boerden.",
+        "en": "We farmed."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1144,6 +1318,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 30
   },
   {
@@ -1152,11 +1327,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik haat bonen.",
+        "en": "I hate beans."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik haat bonen.",
+        "en": "I hate beans."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik haat bonen.",
+        "en": "I hate beans."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1168,15 +1358,16 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 31
   },
   {
     "nl": "boven",
     "en": "upstairs / above",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
-    "les": 4,
+    "pos": "adverb",
+    "category": "other",
+    "les": 2,
     "articleLes": [
       19
     ],
@@ -1198,29 +1389,10 @@
         "en": "Do not learn them only from top to bottom, but also from bottom to top and in random order."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "boof"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "booft"
-        },
-        {
-          "label": "past",
-          "nl": "boofte"
-        },
-        {
-          "label": "perfect",
-          "nl": "heeft gebooft"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.9 Woorden leren",
     "_sourceIndex": 32
   },
   {
@@ -1229,7 +1401,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [
       2
     ],
@@ -1262,6 +1434,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 33
   },
   {
@@ -1270,7 +1443,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 4,
+    "les": 2,
     "articleLes": [
       5
     ],
@@ -1315,6 +1488,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 34
   },
   {
@@ -1323,7 +1497,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 4,
+    "les": 2,
     "articleLes": [
       7
     ],
@@ -1356,6 +1530,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 35
   },
   {
@@ -1364,7 +1539,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
+    "les": 2,
     "articleLes": [
       5
     ],
@@ -1397,6 +1572,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 36
   },
   {
@@ -1405,7 +1581,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
+    "les": 2,
     "articleLes": [
       8
     ],
@@ -1438,6 +1614,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 37
   },
   {
@@ -1446,7 +1623,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
+    "les": 2,
     "articleLes": [
       22
     ],
@@ -1479,6 +1656,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.1 Beste cursist",
     "_sourceIndex": 38
   },
   {
@@ -1487,11 +1665,28 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 2,
+    "articleLes": [
+      13
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Belangstellenden en nieuwe cursisten zijn welkom op de open dagen.",
+        "en": "Interested people and new course participants are welcome on the open days."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Belangstellenden en nieuwe cursisten zijn welkom op de open dagen.",
+        "en": "Interested people and new course participants are welcome on the open days."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Belangstellenden en nieuwe cursisten zijn welkom op de open dagen.",
+        "en": "Interested people and new course participants are welcome on the open days."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1503,6 +1698,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.3 Vakanties",
     "_sourceIndex": 39
   },
   {
@@ -1511,7 +1707,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
+    "les": 3,
     "articleLes": [
       13
     ],
@@ -1544,6 +1740,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.3 Vakanties",
     "_sourceIndex": 40
   },
   {
@@ -1552,7 +1749,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 5,
+    "les": 3,
     "articleLes": [
       3
     ],
@@ -1577,6 +1774,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 41
   },
   {
@@ -1585,11 +1783,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 5,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1601,6 +1814,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 42
   },
   {
@@ -1609,11 +1823,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 5,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Delen is belangrijk.",
+        "en": "Sharing is important."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -1637,6 +1866,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 43
   },
   {
@@ -1645,11 +1875,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 5,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Onze deelneming.",
+        "en": "Our condolences."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Onze deelneming.",
+        "en": "Our condolences."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Onze deelneming.",
+        "en": "Our condolences."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -1673,6 +1918,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 44
   },
   {
@@ -1681,11 +1927,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 6,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ons evenement heeft ongeveer vijftig deelnemers.",
+        "en": "Our event has roughly fifty participants."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ons evenement heeft ongeveer vijftig deelnemers.",
+        "en": "Our event has roughly fifty participants."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ons evenement heeft ongeveer vijftig deelnemers.",
+        "en": "Our event has roughly fifty participants."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1697,6 +1958,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 45
   },
   {
@@ -1705,7 +1967,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 6,
+    "les": 3,
     "articleLes": [
       6
     ],
@@ -1738,6 +2000,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 46
   },
   {
@@ -1746,7 +2009,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 6,
+    "les": 3,
     "articleLes": [
       1
     ],
@@ -1779,6 +2042,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 47
   },
   {
@@ -1787,7 +2051,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 6,
+    "les": 3,
     "articleLes": [
       1
     ],
@@ -1832,6 +2096,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 48
   },
   {
@@ -1840,11 +2105,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 6,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik ben de eigenaar.",
+        "en": "The property is mine."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik ben de eigenaar.",
+        "en": "The property is mine."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik ben de eigenaar.",
+        "en": "The property is mine."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -1856,6 +2136,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 49
   },
   {
@@ -1864,14 +2145,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 6,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Het gebeurde eerder.",
+        "en": "It happened before."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Het gebeurde eerder.",
+        "en": "It happened before."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Het gebeurde eerder.",
+        "en": "It happened before."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 50
   },
   {
@@ -1880,7 +2177,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 6,
+    "les": 3,
     "articleLes": [
       17
     ],
@@ -1905,6 +2202,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.7 Dag Yvonne",
     "_sourceIndex": 51
   },
   {
@@ -1913,14 +2211,32 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 6,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 3,
+    "articleLes": [
+      6
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Als u geen vlees eet, wilt u dit dan doorgeven aan Marie?",
+        "en": "If you do not eat meat, would you please tell Marie?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Als u geen vlees eet, wilt u dit dan doorgeven aan Marie?",
+        "en": "If you do not eat meat, would you please tell Marie?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Als u geen vlees eet, wilt u dit dan doorgeven aan Marie?",
+        "en": "If you do not eat meat, would you please tell Marie?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 52
   },
   {
@@ -1929,7 +2245,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 6,
+    "les": 3,
     "articleLes": [
       1
     ],
@@ -1974,6 +2290,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 53
   },
   {
@@ -1982,7 +2299,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 7,
+    "les": 3,
     "articleLes": [
       23
     ],
@@ -2007,6 +2324,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.2 Gratis stadsbus",
     "_sourceIndex": 54
   },
   {
@@ -2015,7 +2333,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 7,
+    "les": 3,
     "articleLes": [
       22
     ],
@@ -2040,6 +2358,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.1 Beste cursist",
     "_sourceIndex": 55
   },
   {
@@ -2048,14 +2367,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 7,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Zoek ergens anders.",
+        "en": "Look elsewhere."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zoek ergens anders.",
+        "en": "Look elsewhere."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zoek ergens anders.",
+        "en": "Look elsewhere."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 56
   },
   {
@@ -2064,7 +2399,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 7,
+    "les": 3,
     "articleLes": [
       8
     ],
@@ -2089,6 +2424,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 57
   },
   {
@@ -2097,7 +2433,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 7,
+    "les": 3,
     "articleLes": [
       9
     ],
@@ -2130,6 +2466,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 58
   },
   {
@@ -2138,11 +2475,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 7,
+    "les": 3,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Feestjes zijn leuk.",
+        "en": "Parties are fun."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Feestjes zijn leuk.",
+        "en": "Parties are fun."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Feestjes zijn leuk.",
+        "en": "Parties are fun."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2154,6 +2506,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 59
   },
   {
@@ -2162,11 +2515,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 7,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Stop met filmen.",
+        "en": "Stop filming."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Stop met filmen.",
+        "en": "Stop filming."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Stop met filmen.",
+        "en": "Stop filming."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2178,6 +2546,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 60
   },
   {
@@ -2186,26 +2555,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 7,
+    "les": 4,
     "articleLes": [
-      19
+      17
     ],
     "examples": {
       "a1": {
-        "nl": "Dan legt u het kaartje op de stapel fout.",
-        "en": "Then you put the card on the wrong stack."
+        "nl": "Ik vind het nog steeds moeilijk en maak nog steeds fouten, maar ik doe het nu wel.",
+        "en": "I still find it difficult and still make mistakes, but now I do it."
       }
     },
     "examExamples": {
       "a1": {
-        "nl": "Dan legt u het kaartje op de stapel fout.",
-        "en": "Then you put the card on the wrong stack."
+        "nl": "Ik vind het nog steeds moeilijk en maak nog steeds fouten, maar ik doe het nu wel.",
+        "en": "I still find it difficult and still make mistakes, but now I do it."
       }
     },
     "beginnerExamples": {
       "a1": {
-        "nl": "Dan legt u het kaartje op de stapel fout.",
-        "en": "Then you put the card on the wrong stack."
+        "nl": "Ik vind het nog steeds moeilijk en maak nog steeds fouten, maar ik doe het nu wel.",
+        "en": "I still find it difficult and still make mistakes, but now I do it."
       }
     },
     "grammar": {
@@ -2219,6 +2588,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.7 Dag Yvonne",
     "_sourceIndex": 61
   },
   {
@@ -2227,7 +2597,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 7,
+    "les": 4,
     "articleLes": [
       5
     ],
@@ -2252,6 +2622,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 62
   },
   {
@@ -2260,11 +2631,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 8,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Veel geluk!",
+        "en": "Good luck."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Veel geluk!",
+        "en": "Good luck."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Veel geluk!",
+        "en": "Good luck."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2276,6 +2662,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 63
   },
   {
@@ -2284,11 +2671,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 8,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik ben gids.",
+        "en": "I am a guide."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik ben gids.",
+        "en": "I am a guide."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik ben gids.",
+        "en": "I am a guide."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2300,6 +2702,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 64
   },
   {
@@ -2308,7 +2711,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       9
     ],
@@ -2353,6 +2756,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 65
   },
   {
@@ -2361,7 +2765,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       8
     ],
@@ -2386,6 +2790,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 66
   },
   {
@@ -2394,7 +2799,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       1
     ],
@@ -2439,6 +2844,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 67
   },
   {
@@ -2447,7 +2853,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       38
     ],
@@ -2472,6 +2878,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "4.8 Hallo iedereen",
     "_sourceIndex": 68
   },
   {
@@ -2480,11 +2887,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 8,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "We groeien.",
+        "en": "We're growing."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "We groeien.",
+        "en": "We're growing."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "We groeien.",
+        "en": "We're growing."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -2508,6 +2930,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 69
   },
   {
@@ -2516,7 +2939,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       2
     ],
@@ -2561,6 +2984,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 70
   },
   {
@@ -2569,7 +2993,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 8,
+    "les": 4,
     "articleLes": [
       8
     ],
@@ -2614,6 +3038,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 71
   },
   {
@@ -2622,7 +3047,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 9,
+    "les": 4,
     "articleLes": [
       8
     ],
@@ -2655,6 +3080,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 72
   },
   {
@@ -2663,7 +3089,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 9,
+    "les": 4,
     "articleLes": [
       5
     ],
@@ -2696,6 +3122,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 73
   },
   {
@@ -2704,11 +3131,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 9,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Doe het huiswerk!",
+        "en": "Do homework!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Doe het huiswerk!",
+        "en": "Do homework!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Doe het huiswerk!",
+        "en": "Do homework!"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2720,6 +3162,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 74
   },
   {
@@ -2728,11 +3171,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 9,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Arme hond.",
+        "en": "Poor dog."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Arme hond.",
+        "en": "Poor dog."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Arme hond.",
+        "en": "Poor dog."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -2744,15 +3202,16 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 75
   },
   {
     "nl": "houten",
     "en": "wooden",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
-    "les": 9,
+    "pos": "adjective",
+    "category": "adjective",
+    "les": 4,
     "articleLes": [
       28
     ],
@@ -2774,29 +3233,10 @@
         "en": "The Wooden Furniture Making course consists of six lessons."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "hout"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "hout"
-        },
-        {
-          "label": "past",
-          "nl": "houtte"
-        },
-        {
-          "label": "perfect",
-          "nl": "heeft gehout"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.7 Cursus Houten Meubels Maken",
     "_sourceIndex": 76
   },
   {
@@ -2805,14 +3245,30 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 9,
+    "les": 4,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "De app werkt niet.",
+        "en": "The app's not working."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "De app werkt niet.",
+        "en": "The app's not working."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "De app werkt niet.",
+        "en": "The app's not working."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 77
   },
   {
@@ -2821,7 +3277,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 9,
+    "les": 4,
     "articleLes": [
       13
     ],
@@ -2846,6 +3302,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.3 Vakanties",
     "_sourceIndex": 78
   },
   {
@@ -2854,7 +3311,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 9,
+    "les": 4,
     "articleLes": [
       38
     ],
@@ -2879,6 +3336,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "4.8 Hallo iedereen",
     "_sourceIndex": 79
   },
   {
@@ -2887,7 +3345,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 9,
+    "les": 5,
     "articleLes": [
       21
     ],
@@ -2912,6 +3370,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.11 Beste collega's",
     "_sourceIndex": 80
   },
   {
@@ -2920,7 +3379,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       3
     ],
@@ -2945,6 +3404,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 81
   },
   {
@@ -2953,7 +3413,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       10
     ],
@@ -2978,6 +3438,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 82
   },
   {
@@ -2986,7 +3447,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       7
     ],
@@ -3011,6 +3472,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 83
   },
   {
@@ -3019,7 +3481,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       9
     ],
@@ -3044,6 +3506,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 84
   },
   {
@@ -3052,7 +3515,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       4
     ],
@@ -3077,6 +3540,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 85
   },
   {
@@ -3085,14 +3549,30 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik ken je.",
+        "en": "I know you."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik ken je.",
+        "en": "I know you."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik ken je.",
+        "en": "I know you."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 86
   },
   {
@@ -3101,14 +3581,32 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 5,
+    "articleLes": [
+      1
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Welk advies kan je hem geven?",
+        "en": "What advice can you give him?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Welk advies kan je hem geven?",
+        "en": "What advice can you give him?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Welk advies kan je hem geven?",
+        "en": "What advice can you give him?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 87
   },
   {
@@ -3117,7 +3615,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       9
     ],
@@ -3142,6 +3640,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 88
   },
   {
@@ -3150,7 +3649,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 10,
+    "les": 5,
     "articleLes": [
       9
     ],
@@ -3175,6 +3674,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 89
   },
   {
@@ -3183,14 +3683,30 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Roep Yanni.",
+        "en": "Call Yanni."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Roep Yanni.",
+        "en": "Call Yanni."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Roep Yanni.",
+        "en": "Call Yanni."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 90
   },
   {
@@ -3199,7 +3715,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       22
     ],
@@ -3224,6 +3740,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.1 Beste cursist",
     "_sourceIndex": 91
   },
   {
@@ -3232,7 +3749,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       9
     ],
@@ -3257,6 +3774,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 92
   },
   {
@@ -3265,7 +3783,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       9
     ],
@@ -3290,6 +3808,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 93
   },
   {
@@ -3298,40 +3817,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
-    "articleLes": [
-      3
-    ],
-    "examples": {
-      "a1": {
-        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
-        "en": "She wants to know what time the furniture will be delivered."
-      }
-    },
-    "examExamples": {
-      "a1": {
-        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
-        "en": "She wants to know what time the furniture will be delivered."
-      }
-    },
-    "beginnerExamples": {
-      "a1": {
-        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
-        "en": "She wants to know what time the furniture will be delivered."
-      }
-    },
-    "grammar": null,
-    "deck": "common",
-    "source": "Quizlet reading/listening exam vocabulary",
-    "_sourceIndex": 94
-  },
-  {
-    "nl": "Ik wil een docent worden.",
-    "en": "I want to become a teacher.",
-    "ipa": "",
-    "pos": "phrase",
-    "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       13
     ],
@@ -3356,6 +3842,41 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.3 Vakanties",
+    "_sourceIndex": 94
+  },
+  {
+    "nl": "Ik wil een docent worden.",
+    "en": "I want to become a teacher.",
+    "ipa": "",
+    "pos": "phrase",
+    "category": "other",
+    "les": 5,
+    "articleLes": [
+      3
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
+        "en": "She wants to know what time the furniture will be delivered."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
+        "en": "She wants to know what time the furniture will be delivered."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ze wil weten hoe laat de meubels bezorgd worden.",
+        "en": "She wants to know what time the furniture will be delivered."
+      }
+    },
+    "grammar": null,
+    "deck": "common",
+    "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 95
   },
   {
@@ -3364,7 +3885,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       6
     ],
@@ -3389,6 +3910,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 96
   },
   {
@@ -3397,7 +3919,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       6
     ],
@@ -3422,6 +3944,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 97
   },
   {
@@ -3430,7 +3953,7 @@
     "ipa": "",
     "pos": "phrase",
     "category": "other",
-    "les": 11,
+    "les": 5,
     "articleLes": [
       1
     ],
@@ -3455,6 +3978,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 98
   },
   {
@@ -3463,7 +3987,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 12,
+    "les": 5,
     "articleLes": [
       1
     ],
@@ -3488,6 +4012,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 99
   },
   {
@@ -3496,7 +4021,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       10
     ],
@@ -3521,6 +4046,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 100
   },
   {
@@ -3529,7 +4055,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       28
     ],
@@ -3574,6 +4100,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.7 Cursus Houten Meubels Maken",
     "_sourceIndex": 101
   },
   {
@@ -3582,7 +4109,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       1
     ],
@@ -3607,6 +4134,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 102
   },
   {
@@ -3615,7 +4143,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       1
     ],
@@ -3640,6 +4168,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 103
   },
   {
@@ -3648,7 +4177,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       1
     ],
@@ -3673,6 +4202,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 104
   },
   {
@@ -3681,11 +4211,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 12,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Amerikaanse keukens zijn groter dan Japanse.",
+        "en": "American kitchens are much bigger than Japanese ones."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Amerikaanse keukens zijn groter dan Japanse.",
+        "en": "American kitchens are much bigger than Japanese ones."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Amerikaanse keukens zijn groter dan Japanse.",
+        "en": "American kitchens are much bigger than Japanese ones."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -3697,6 +4242,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 105
   },
   {
@@ -3705,7 +4251,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 12,
+    "les": 6,
     "articleLes": [
       6
     ],
@@ -3750,6 +4296,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 106
   },
   {
@@ -3758,11 +4305,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 12,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Mooi kleurtje.",
+        "en": "Nice tan."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Mooi kleurtje.",
+        "en": "Nice tan."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Mooi kleurtje.",
+        "en": "Nice tan."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -3774,6 +4336,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 107
   },
   {
@@ -3782,11 +4345,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 13,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "We zijn klasgenoten.",
+        "en": "We're classmates."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "We zijn klasgenoten.",
+        "en": "We're classmates."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "We zijn klasgenoten.",
+        "en": "We're classmates."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -3798,6 +4376,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 108
   },
   {
@@ -3806,7 +4385,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       21
     ],
@@ -3839,6 +4418,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.11 Beste collega's",
     "_sourceIndex": 109
   },
   {
@@ -3847,7 +4427,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       12
     ],
@@ -3892,6 +4472,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.2 Wat is een cv?",
     "_sourceIndex": 110
   },
   {
@@ -3900,7 +4481,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       4
     ],
@@ -3933,6 +4514,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 111
   },
   {
@@ -3941,7 +4523,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       3
     ],
@@ -3986,6 +4568,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 112
   },
   {
@@ -3994,7 +4577,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       2
     ],
@@ -4039,6 +4622,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 113
   },
   {
@@ -4047,11 +4631,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 13,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "De koopavond is belangrijk.",
+        "en": "The late shopping evening is important."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "De koopavond is belangrijk.",
+        "en": "The late shopping evening is important."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "De koopavond is belangrijk.",
+        "en": "The late shopping evening is important."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4063,6 +4662,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "generated fallback",
     "_sourceIndex": 114
   },
   {
@@ -4071,11 +4671,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 13,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tom ging naar een kringloopwinkel.",
+        "en": "Tom went to a thrift store."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tom ging naar een kringloopwinkel.",
+        "en": "Tom went to a thrift store."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tom ging naar een kringloopwinkel.",
+        "en": "Tom went to a thrift store."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4087,6 +4702,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 115
   },
   {
@@ -4095,7 +4711,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 13,
+    "les": 6,
     "articleLes": [
       1
     ],
@@ -4140,6 +4756,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 116
   },
   {
@@ -4148,7 +4765,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 14,
+    "les": 6,
     "articleLes": [
       8
     ],
@@ -4181,6 +4798,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 117
   },
   {
@@ -4189,11 +4807,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 14,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik houd van lesgeven.",
+        "en": "I love to teach."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik houd van lesgeven.",
+        "en": "I love to teach."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik houd van lesgeven.",
+        "en": "I love to teach."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -4217,6 +4850,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 118
   },
   {
@@ -4225,11 +4859,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 14,
+    "les": 6,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Leef!",
+        "en": "Live!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Leef!",
+        "en": "Live!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Leef!",
+        "en": "Live!"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4241,6 +4890,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 119
   },
   {
@@ -4249,7 +4899,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 14,
+    "les": 7,
     "articleLes": [
       24
     ],
@@ -4282,6 +4932,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.3 Beste buurtbewoner",
     "_sourceIndex": 120
   },
   {
@@ -4290,7 +4941,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 14,
+    "les": 7,
     "articleLes": [
       1
     ],
@@ -4335,6 +4986,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 121
   },
   {
@@ -4343,7 +4995,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 14,
+    "les": 7,
     "articleLes": [
       1
     ],
@@ -4388,6 +5040,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 122
   },
   {
@@ -4396,11 +5049,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 14,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Luisteren.",
+        "en": "Listen!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Luisteren.",
+        "en": "Listen!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Luisteren.",
+        "en": "Listen!"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -4424,6 +5092,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 123
   },
   {
@@ -4432,7 +5101,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 14,
+    "les": 7,
     "articleLes": [
       1
     ],
@@ -4477,6 +5146,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 124
   },
   {
@@ -4485,11 +5155,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 14,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik heb dertien medewerkers.",
+        "en": "I have thirteen employees."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik heb dertien medewerkers.",
+        "en": "I have thirteen employees."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik heb dertien medewerkers.",
+        "en": "I have thirteen employees."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4501,6 +5186,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 125
   },
   {
@@ -4509,7 +5195,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       6
     ],
@@ -4554,6 +5240,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 126
   },
   {
@@ -4562,7 +5249,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       4
     ],
@@ -4607,6 +5294,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 127
   },
   {
@@ -4615,11 +5303,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 15,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4631,6 +5334,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 128
   },
   {
@@ -4639,14 +5343,30 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 15,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Wat inspireert u meest?",
+        "en": "What inspires you most?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 129
   },
   {
@@ -4655,7 +5375,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       14
     ],
@@ -4700,6 +5420,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.4 Ziekmelding",
     "_sourceIndex": 130
   },
   {
@@ -4708,7 +5429,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       6
     ],
@@ -4741,6 +5462,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 131
   },
   {
@@ -4749,7 +5471,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       3
     ],
@@ -4782,15 +5504,16 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 132
   },
   {
     "nl": "meteen",
     "en": "immediately",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
-    "les": 15,
+    "pos": "adverb",
+    "category": "other",
+    "les": 7,
     "articleLes": [
       10
     ],
@@ -4812,29 +5535,10 @@
         "en": "If you become ill during working hours, you report this immediately."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "mete"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "metet"
-        },
-        {
-          "label": "past",
-          "nl": "metede"
-        },
-        {
-          "label": "perfect",
-          "nl": "heeft gemeted"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 133
   },
   {
@@ -4843,7 +5547,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 15,
+    "les": 7,
     "articleLes": [
       2
     ],
@@ -4868,6 +5572,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 134
   },
   {
@@ -4876,7 +5581,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 16,
+    "les": 7,
     "articleLes": [
       10
     ],
@@ -4901,6 +5606,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 135
   },
   {
@@ -4909,14 +5615,30 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 16,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Zo moe!",
+        "en": "So tired!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zo moe!",
+        "en": "So tired!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zo moe!",
+        "en": "So tired!"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 136
   },
   {
@@ -4925,14 +5647,30 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 16,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Dat is mooier.",
+        "en": "That is prettier."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Dat is mooier.",
+        "en": "That is prettier."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Dat is mooier.",
+        "en": "That is prettier."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 137
   },
   {
@@ -4941,14 +5679,30 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 16,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Zij is mijn mooiste vriendin.",
+        "en": "She is my most beautiful friend."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zij is mijn mooiste vriendin.",
+        "en": "She is my most beautiful friend."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zij is mijn mooiste vriendin.",
+        "en": "She is my most beautiful friend."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 138
   },
   {
@@ -4957,11 +5711,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 16,
+    "les": 7,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ieder voordeel heeft zijn nadeel.",
+        "en": "Every advantage has its disadvantage."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ieder voordeel heeft zijn nadeel.",
+        "en": "Every advantage has its disadvantage."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ieder voordeel heeft zijn nadeel.",
+        "en": "Every advantage has its disadvantage."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -4973,6 +5742,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 139
   },
   {
@@ -4981,14 +5751,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "preposition",
-    "les": 16,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Nadat u gegeten heeft?",
+        "en": "After eating?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Nadat u gegeten heeft?",
+        "en": "After eating?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Nadat u gegeten heeft?",
+        "en": "After eating?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 140
   },
   {
@@ -4997,7 +5783,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 16,
+    "les": 8,
     "articleLes": [
       17
     ],
@@ -5022,6 +5808,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.7 Dag Yvonne",
     "_sourceIndex": 141
   },
   {
@@ -5030,7 +5817,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 16,
+    "les": 8,
     "articleLes": [
       13
     ],
@@ -5055,6 +5842,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.3 Vakanties",
     "_sourceIndex": 142
   },
   {
@@ -5063,7 +5851,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 16,
+    "les": 8,
     "articleLes": [
       4
     ],
@@ -5108,6 +5896,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 143
   },
   {
@@ -5116,7 +5905,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       27
     ],
@@ -5141,6 +5930,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.6 Beste Selina",
     "_sourceIndex": 144
   },
   {
@@ -5149,7 +5939,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       18
     ],
@@ -5174,6 +5964,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.8 Informatie huisarts",
     "_sourceIndex": 145
   },
   {
@@ -5182,7 +5973,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       7
     ],
@@ -5207,6 +5998,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 146
   },
   {
@@ -5215,7 +6007,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       9
     ],
@@ -5240,6 +6032,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 147
   },
   {
@@ -5248,11 +6041,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 17,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Nodig hem uit.",
+        "en": "Invite him over."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Nodig hem uit.",
+        "en": "Invite him over."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Nodig hem uit.",
+        "en": "Invite him over."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -5264,6 +6072,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 148
   },
   {
@@ -5272,7 +6081,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       8
     ],
@@ -5305,6 +6114,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 149
   },
   {
@@ -5313,7 +6123,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       8
     ],
@@ -5346,6 +6156,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 150
   },
   {
@@ -5354,7 +6165,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       25
     ],
@@ -5399,6 +6210,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.4 Verkopers Gezocht",
     "_sourceIndex": 151
   },
   {
@@ -5407,7 +6219,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 17,
+    "les": 8,
     "articleLes": [
       8
     ],
@@ -5440,6 +6252,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.8 EHBO De Groene Cirkel",
     "_sourceIndex": 152
   },
   {
@@ -5448,11 +6261,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 18,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Wie heeft het ontvangen?",
+        "en": "Who received it?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Wie heeft het ontvangen?",
+        "en": "Who received it?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Wie heeft het ontvangen?",
+        "en": "Who received it?"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5476,6 +6304,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 153
   },
   {
@@ -5484,11 +6313,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 18,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tom ontwerpt jurken.",
+        "en": "Tom designs dresses."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tom ontwerpt jurken.",
+        "en": "Tom designs dresses."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tom ontwerpt jurken.",
+        "en": "Tom designs dresses."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5512,6 +6356,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 154
   },
   {
@@ -5520,7 +6365,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 18,
+    "les": 8,
     "articleLes": [
       2
     ],
@@ -5553,6 +6398,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 155
   },
   {
@@ -5561,11 +6407,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 18,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tom mag ons uitnodigen.",
+        "en": "Tom may invite us."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tom mag ons uitnodigen.",
+        "en": "Tom may invite us."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tom mag ons uitnodigen.",
+        "en": "Tom may invite us."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5589,6 +6450,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 156
   },
   {
@@ -5597,7 +6459,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 18,
+    "les": 8,
     "articleLes": [
       14
     ],
@@ -5630,6 +6492,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.4 Ziekmelding",
     "_sourceIndex": 157
   },
   {
@@ -5638,14 +6501,30 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 18,
+    "les": 8,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Hallo ouder!",
+        "en": "Hello parent!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Hallo ouder!",
+        "en": "Hello parent!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Hallo ouder!",
+        "en": "Hello parent!"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 158
   },
   {
@@ -5654,7 +6533,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 18,
+    "les": 8,
     "articleLes": [
       6
     ],
@@ -5679,6 +6558,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 159
   },
   {
@@ -5687,7 +6567,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 18,
+    "les": 9,
     "articleLes": [
       5
     ],
@@ -5732,6 +6612,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 160
   },
   {
@@ -5740,7 +6621,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 18,
+    "les": 9,
     "articleLes": [
       7
     ],
@@ -5785,6 +6666,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 161
   },
   {
@@ -5793,11 +6675,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 19,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Laatste oproep!",
+        "en": "Last call!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Laatste oproep!",
+        "en": "Last call!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Laatste oproep!",
+        "en": "Last call!"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5821,6 +6718,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 162
   },
   {
@@ -5829,11 +6727,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 19,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Kun je deze voor me opsturen?",
+        "en": "Can you mail these for me?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Kun je deze voor me opsturen?",
+        "en": "Can you mail these for me?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Kun je deze voor me opsturen?",
+        "en": "Can you mail these for me?"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5857,6 +6770,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 163
   },
   {
@@ -5865,7 +6779,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "preposition",
-    "les": 19,
+    "les": 9,
     "articleLes": [
       1
     ],
@@ -5890,6 +6804,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 164
   },
   {
@@ -5898,11 +6813,28 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 19,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 9,
+    "articleLes": [
+      3
+    ],
+    "examples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -5926,6 +6858,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 165
   },
   {
@@ -5934,14 +6867,30 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 19,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "We worden ons bewust van de gevaren van passief roken.",
+        "en": "We are becoming very aware of the dangers of secondhand smoke."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "We worden ons bewust van de gevaren van passief roken.",
+        "en": "We are becoming very aware of the dangers of secondhand smoke."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "We worden ons bewust van de gevaren van passief roken.",
+        "en": "We are becoming very aware of the dangers of secondhand smoke."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 166
   },
   {
@@ -5950,7 +6899,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 19,
+    "les": 9,
     "articleLes": [
       11
     ],
@@ -5983,6 +6932,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.1 Welkom bij de tandartspraktijk Oud Zwaluwen",
     "_sourceIndex": 167
   },
   {
@@ -5991,7 +6941,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 19,
+    "les": 9,
     "articleLes": [
       23
     ],
@@ -6024,6 +6974,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "3.2 Gratis stadsbus",
     "_sourceIndex": 168
   },
   {
@@ -6032,7 +6983,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 19,
+    "les": 9,
     "articleLes": [
       5
     ],
@@ -6065,6 +7016,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 169
   },
   {
@@ -6073,7 +7025,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 19,
+    "les": 9,
     "articleLes": [
       15
     ],
@@ -6118,6 +7070,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.5 Uitnodiging buurtbijeenkomst",
     "_sourceIndex": 170
   },
   {
@@ -6126,7 +7079,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 20,
+    "les": 9,
     "articleLes": [
       9
     ],
@@ -6171,6 +7124,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 171
   },
   {
@@ -6179,11 +7133,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 20,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Prijs hem.",
+        "en": "Praise him."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Prijs hem.",
+        "en": "Praise him."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Prijs hem.",
+        "en": "Praise him."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6195,6 +7164,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 172
   },
   {
@@ -6203,14 +7173,30 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 20,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Gelaatsbedekking is verplicht.",
+        "en": "A face covering is required."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Gelaatsbedekking is verplicht.",
+        "en": "A face covering is required."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Gelaatsbedekking is verplicht.",
+        "en": "A face covering is required."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 173
   },
   {
@@ -6219,7 +7205,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 20,
+    "les": 9,
     "articleLes": [
       20
     ],
@@ -6264,6 +7250,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.10 Werkrooster Hotel",
     "_sourceIndex": 174
   },
   {
@@ -6272,11 +7259,28 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 20,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 9,
+    "articleLes": [
+      20
+    ],
+    "examples": {
+      "a1": {
+        "nl": "Dan moet je dat zelf regelen.",
+        "en": "Then you must arrange that yourself."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Dan moet je dat zelf regelen.",
+        "en": "Then you must arrange that yourself."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Dan moet je dat zelf regelen.",
+        "en": "Then you must arrange that yourself."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6288,6 +7292,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.10 Werkrooster Hotel",
     "_sourceIndex": 175
   },
   {
@@ -6296,7 +7301,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 20,
+    "les": 9,
     "articleLes": [
       20
     ],
@@ -6329,6 +7334,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.10 Werkrooster Hotel",
     "_sourceIndex": 176
   },
   {
@@ -6337,7 +7343,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 20,
+    "les": 9,
     "articleLes": [
       20
     ],
@@ -6382,6 +7388,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.10 Werkrooster Hotel",
     "_sourceIndex": 177
   },
   {
@@ -6390,11 +7397,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 20,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tom schildert zijn slaapkamer.",
+        "en": "Tom is painting his bedroom."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tom schildert zijn slaapkamer.",
+        "en": "Tom is painting his bedroom."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tom schildert zijn slaapkamer.",
+        "en": "Tom is painting his bedroom."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6406,6 +7428,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 178
   },
   {
@@ -6414,11 +7437,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 20,
+    "les": 9,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Sami kon niet schoonmaken.",
+        "en": "Sami had no cleaning skills."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Sami kon niet schoonmaken.",
+        "en": "Sami had no cleaning skills."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Sami kon niet schoonmaken.",
+        "en": "Sami had no cleaning skills."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -6442,6 +7480,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 179
   },
   {
@@ -6450,7 +7489,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       17
     ],
@@ -6495,6 +7534,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.7 Dag Yvonne",
     "_sourceIndex": 180
   },
   {
@@ -6503,11 +7543,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Spel afgelopen.",
+        "en": "Game over."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Spel afgelopen.",
+        "en": "Game over."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Spel afgelopen.",
+        "en": "Game over."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6519,6 +7574,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 181
   },
   {
@@ -6527,11 +7583,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 21,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Spreek!",
+        "en": "Speak!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Spreek!",
+        "en": "Speak!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Spreek!",
+        "en": "Speak!"
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -6555,6 +7626,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 182
   },
   {
@@ -6563,7 +7635,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       6
     ],
@@ -6596,6 +7668,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 183
   },
   {
@@ -6604,11 +7677,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tot spoedig!",
+        "en": "I'll see you guys later."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tot spoedig!",
+        "en": "I'll see you guys later."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tot spoedig!",
+        "en": "I'll see you guys later."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6620,6 +7708,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 184
   },
   {
@@ -6628,7 +7717,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       5
     ],
@@ -6673,6 +7762,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 185
   },
   {
@@ -6681,7 +7771,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       3
     ],
@@ -6714,6 +7804,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 186
   },
   {
@@ -6722,7 +7813,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       17
     ],
@@ -6755,6 +7846,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.7 Dag Yvonne",
     "_sourceIndex": 187
   },
   {
@@ -6763,7 +7855,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 21,
+    "les": 10,
     "articleLes": [
       7
     ],
@@ -6796,6 +7888,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 188
   },
   {
@@ -6804,7 +7897,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [
       11
     ],
@@ -6837,6 +7930,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.1 Welkom bij de tandartspraktijk Oud Zwaluwen",
     "_sourceIndex": 189
   },
   {
@@ -6845,11 +7939,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Hebben schildpadden tanden?",
+        "en": "Do turtles have teeth?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Hebben schildpadden tanden?",
+        "en": "Do turtles have teeth?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Hebben schildpadden tanden?",
+        "en": "Do turtles have teeth?"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6861,6 +7970,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 190
   },
   {
@@ -6869,7 +7979,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "preposition",
-    "les": 22,
+    "les": 10,
     "articleLes": [
       10
     ],
@@ -6894,6 +8004,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 191
   },
   {
@@ -6902,11 +8013,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "De televisie liegt.",
+        "en": "Television lies."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "De televisie liegt.",
+        "en": "Television lies."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "De televisie liegt.",
+        "en": "Television lies."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6918,6 +8044,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 192
   },
   {
@@ -6926,11 +8053,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik begon dit thema.",
+        "en": "I started this topic."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik begon dit thema.",
+        "en": "I started this topic."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik begon dit thema.",
+        "en": "I started this topic."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -6942,6 +8084,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 193
   },
   {
@@ -6950,7 +8093,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [
       4
     ],
@@ -6983,6 +8126,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 194
   },
   {
@@ -6991,14 +8135,32 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 22,
-    "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "les": 10,
+    "articleLes": [
+      3
+    ],
+    "examples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "En wilt u dat wij deze meubels bij u thuisbezorgen?",
+        "en": "And would you like us to deliver this furniture to your home?"
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 195
   },
   {
@@ -7007,7 +8169,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 22,
+    "les": 10,
     "articleLes": [
       5
     ],
@@ -7040,15 +8202,16 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 196
   },
   {
     "nl": "trouwen",
     "en": "to get married",
     "ipa": "",
-    "pos": "verb",
-    "category": "verb",
-    "les": 22,
+    "pos": "adjective",
+    "category": "adjective",
+    "les": 10,
     "articleLes": [
       7
     ],
@@ -7070,29 +8233,10 @@
         "en": "His colleague Nadia is going to marry Richard."
       }
     },
-    "grammar": {
-      "kind": "verb",
-      "forms": [
-        {
-          "label": "ik",
-          "nl": "trouw"
-        },
-        {
-          "label": "hij/zij/het",
-          "nl": "trouwt"
-        },
-        {
-          "label": "past",
-          "nl": "trouwde"
-        },
-        {
-          "label": "perfect",
-          "nl": "is getrouwd"
-        }
-      ]
-    },
+    "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.7 Beste collega's",
     "_sourceIndex": 197
   },
   {
@@ -7101,11 +8245,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 23,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ga naar de tuin.",
+        "en": "Go to the garden."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ga naar de tuin.",
+        "en": "Go to the garden."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ga naar de tuin.",
+        "en": "Go to the garden."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -7117,6 +8276,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 198
   },
   {
@@ -7125,14 +8285,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 23,
+    "les": 10,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Uiteindelijk niet.",
+        "en": "Ultimately, no."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Uiteindelijk niet.",
+        "en": "Ultimately, no."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Uiteindelijk niet.",
+        "en": "Ultimately, no."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 199
   },
   {
@@ -7141,7 +8317,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 23,
+    "les": 11,
     "articleLes": [
       9
     ],
@@ -7166,6 +8342,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 200
   },
   {
@@ -7174,14 +8351,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 23,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Dat hoor ik vaker.",
+        "en": "I get that a lot."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Dat hoor ik vaker.",
+        "en": "I get that a lot."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Dat hoor ik vaker.",
+        "en": "I get that a lot."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 201
   },
   {
@@ -7190,26 +8383,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 23,
+    "les": 11,
     "articleLes": [
-      13
+      18
     ],
     "examples": {
       "a1": {
-        "nl": "Gaat u buiten de vakantieperiode om op vakantie?",
-        "en": "Are you going on holiday outside the holiday period?"
+        "nl": "Hier kunt u ook vinden wie uw huisarts vervangt tijdens vakanties.",
+        "en": "Here you can also find out who replaces your GP during holidays."
       }
     },
     "examExamples": {
       "a1": {
-        "nl": "Gaat u buiten de vakantieperiode om op vakantie?",
-        "en": "Are you going on holiday outside the holiday period?"
+        "nl": "Hier kunt u ook vinden wie uw huisarts vervangt tijdens vakanties.",
+        "en": "Here you can also find out who replaces your GP during holidays."
       }
     },
     "beginnerExamples": {
       "a1": {
-        "nl": "Gaat u buiten de vakantieperiode om op vakantie?",
-        "en": "Are you going on holiday outside the holiday period?"
+        "nl": "Hier kunt u ook vinden wie uw huisarts vervangt tijdens vakanties.",
+        "en": "Here you can also find out who replaces your GP during holidays."
       }
     },
     "grammar": {
@@ -7223,6 +8416,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.8 Informatie huisarts",
     "_sourceIndex": 202
   },
   {
@@ -7231,11 +8425,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 23,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Verstuur morgenochtend deze brief.",
+        "en": "Mail this letter tomorrow morning."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Verstuur morgenochtend deze brief.",
+        "en": "Mail this letter tomorrow morning."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Verstuur morgenochtend deze brief.",
+        "en": "Mail this letter tomorrow morning."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7259,6 +8468,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 203
   },
   {
@@ -7267,11 +8477,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 23,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Vervang het.",
+        "en": "Replace it."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Vervang het.",
+        "en": "Replace it."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Vervang het.",
+        "en": "Replace it."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7295,6 +8520,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 204
   },
   {
@@ -7303,11 +8529,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 23,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Verplaats niets.",
+        "en": "Don't move anything."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Verplaats niets.",
+        "en": "Don't move anything."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Verplaats niets.",
+        "en": "Don't move anything."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7331,6 +8572,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 205
   },
   {
@@ -7339,11 +8581,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 23,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Hij vertrekt.",
+        "en": "He's leaving."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Hij vertrekt.",
+        "en": "He's leaving."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Hij vertrekt.",
+        "en": "He's leaving."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7367,6 +8624,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 206
   },
   {
@@ -7375,7 +8633,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 24,
+    "les": 11,
     "articleLes": [
       2
     ],
@@ -7420,6 +8678,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 207
   },
   {
@@ -7428,11 +8687,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Verdeel en heers.",
+        "en": "Divide and conquer."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Verdeel en heers.",
+        "en": "Divide and conquer."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Verdeel en heers.",
+        "en": "Divide and conquer."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7456,6 +8730,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 208
   },
   {
@@ -7464,11 +8739,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ga naar de vergadering.",
+        "en": "Attend the meeting."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ga naar de vergadering.",
+        "en": "Attend the meeting."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ga naar de vergadering.",
+        "en": "Attend the meeting."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -7480,6 +8770,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 209
   },
   {
@@ -7488,11 +8779,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Verenig!",
+        "en": "Unite!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Verenig!",
+        "en": "Unite!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Verenig!",
+        "en": "Unite!"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -7504,6 +8810,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 210
   },
   {
@@ -7512,11 +8819,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Wij zijn verkopers.",
+        "en": "We're salesmen."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Wij zijn verkopers.",
+        "en": "We're salesmen."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Wij zijn verkopers.",
+        "en": "We're salesmen."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -7528,6 +8850,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 211
   },
   {
@@ -7536,7 +8859,7 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 24,
+    "les": 11,
     "articleLes": [
       12
     ],
@@ -7561,6 +8884,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.2 Wat is een cv?",
     "_sourceIndex": 212
   },
   {
@@ -7569,11 +8893,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Tom is vrijwilliger.",
+        "en": "Tom volunteers."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Tom is vrijwilliger.",
+        "en": "Tom volunteers."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Tom is vrijwilliger.",
+        "en": "Tom volunteers."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -7585,6 +8924,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 213
   },
   {
@@ -7593,7 +8933,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 24,
+    "les": 11,
     "articleLes": [
       6
     ],
@@ -7618,6 +8958,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 214
   },
   {
@@ -7626,14 +8967,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 24,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik rookte vroeger.",
+        "en": "I used to smoke."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik rookte vroeger.",
+        "en": "I used to smoke."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik rookte vroeger.",
+        "en": "I used to smoke."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 215
   },
   {
@@ -7642,14 +8999,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 25,
+    "les": 11,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Kom vroeg.",
+        "en": "Come early."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Kom vroeg.",
+        "en": "Come early."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Kom vroeg.",
+        "en": "Come early."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 216
   },
   {
@@ -7658,7 +9031,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 25,
+    "les": 11,
     "articleLes": [
       11
     ],
@@ -7703,6 +9076,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.1 Welkom bij de tandartspraktijk Oud Zwaluwen",
     "_sourceIndex": 217
   },
   {
@@ -7711,7 +9085,7 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 25,
+    "les": 11,
     "articleLes": [
       5
     ],
@@ -7736,6 +9110,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 218
   },
   {
@@ -7744,31 +9119,32 @@
     "ipa": "",
     "pos": "other",
     "category": "other",
-    "les": 25,
+    "les": 11,
     "articleLes": [
-      1
+      5
     ],
     "examples": {
       "a1": {
-        "nl": "Leer niet langer dan een half uur.",
-        "en": "Do not study for longer than half an hour."
+        "nl": "Waar is de tas van Suzanne?",
+        "en": "Where is Suzanne’s bag?"
       }
     },
     "examExamples": {
       "a1": {
-        "nl": "Leer niet langer dan een half uur.",
-        "en": "Do not study for longer than half an hour."
+        "nl": "Waar is de tas van Suzanne?",
+        "en": "Where is Suzanne’s bag?"
       }
     },
     "beginnerExamples": {
       "a1": {
-        "nl": "Leer niet langer dan een half uur.",
-        "en": "Do not study for longer than half an hour."
+        "nl": "Waar is de tas van Suzanne?",
+        "en": "Where is Suzanne’s bag?"
       }
     },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.5 j.degraaf@werk.nl",
     "_sourceIndex": 219
   },
   {
@@ -7777,7 +9153,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 25,
+    "les": 12,
     "articleLes": [
       4
     ],
@@ -7810,6 +9186,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 220
   },
   {
@@ -7818,7 +9195,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 25,
+    "les": 12,
     "articleLes": [
       2
     ],
@@ -7843,6 +9220,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 221
   },
   {
@@ -7851,7 +9229,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 25,
+    "les": 12,
     "articleLes": [
       2
     ],
@@ -7896,6 +9274,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 222
   },
   {
@@ -7904,11 +9283,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 25,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Niet weggooien!",
+        "en": "Don't throw it away."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Niet weggooien!",
+        "en": "Don't throw it away."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Niet weggooien!",
+        "en": "Don't throw it away."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -7932,6 +9326,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 223
   },
   {
@@ -7940,7 +9335,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 25,
+    "les": 12,
     "articleLes": [
       2
     ],
@@ -7965,6 +9360,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.2 Aan de bewoners van het dorp",
     "_sourceIndex": 224
   },
   {
@@ -7973,7 +9369,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 26,
+    "les": 12,
     "articleLes": [
       3
     ],
@@ -8018,6 +9414,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 225
   },
   {
@@ -8026,7 +9423,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [
       1
     ],
@@ -8059,6 +9456,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 226
   },
   {
@@ -8067,7 +9465,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [
       10
     ],
@@ -8100,6 +9498,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 227
   },
   {
@@ -8108,11 +9507,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Regelgeving beschermt werknemers.",
+        "en": "Regulations protect employees."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Regelgeving beschermt werknemers.",
+        "en": "Regulations protect employees."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Regelgeving beschermt werknemers.",
+        "en": "Regulations protect employees."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -8124,6 +9538,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 228
   },
   {
@@ -8132,7 +9547,7 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [
       9
     ],
@@ -8165,6 +9580,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.9 Bartjes Kringloopcentrum",
     "_sourceIndex": 229
   },
   {
@@ -8173,11 +9589,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Ik zat in de woonkamer.",
+        "en": "I was in the living room."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Ik zat in de woonkamer.",
+        "en": "I was in the living room."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Ik zat in de woonkamer.",
+        "en": "I was in the living room."
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -8189,6 +9620,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 230
   },
   {
@@ -8197,7 +9629,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 26,
+    "les": 12,
     "articleLes": [
       3
     ],
@@ -8242,6 +9674,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.3 Verzamel- en transportservice",
     "_sourceIndex": 231
   },
   {
@@ -8250,11 +9683,26 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 26,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Gewoon doortrekken.",
+        "en": "Just flush the toilet."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Gewoon doortrekken.",
+        "en": "Just flush the toilet."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Gewoon doortrekken.",
+        "en": "Just flush the toilet."
+      }
+    },
     "grammar": {
       "kind": "verb",
       "forms": [
@@ -8278,6 +9726,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 232
   },
   {
@@ -8286,11 +9735,26 @@
     "ipa": "",
     "pos": "noun",
     "category": "noun",
-    "les": 26,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Zaak opgelost!",
+        "en": "Voilà! Case resolved!"
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zaak opgelost!",
+        "en": "Voilà! Case resolved!"
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zaak opgelost!",
+        "en": "Voilà! Case resolved!"
+      }
+    },
     "grammar": {
       "kind": "noun",
       "forms": [
@@ -8302,6 +9766,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 233
   },
   {
@@ -8310,14 +9775,30 @@
     "ipa": "",
     "pos": "adjective",
     "category": "adjective",
-    "les": 27,
+    "les": 12,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Sami heeft een zakelijk e-mailadres.",
+        "en": "Sami has a business e-mail."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Sami heeft een zakelijk e-mailadres.",
+        "en": "Sami has a business e-mail."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Sami heeft een zakelijk e-mailadres.",
+        "en": "Sami has a business e-mail."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 234
   },
   {
@@ -8326,7 +9807,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 27,
+    "les": 12,
     "articleLes": [
       10
     ],
@@ -8371,6 +9852,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.10 Ziekmelding",
     "_sourceIndex": 235
   },
   {
@@ -8379,7 +9861,7 @@
     "ipa": "",
     "pos": "adverb",
     "category": "other",
-    "les": 27,
+    "les": 12,
     "articleLes": [
       4
     ],
@@ -8404,6 +9886,7 @@
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.4 Beste collega",
     "_sourceIndex": 236
   },
   {
@@ -8412,7 +9895,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 27,
+    "les": 12,
     "articleLes": [
       14
     ],
@@ -8457,6 +9940,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.4 Ziekmelding",
     "_sourceIndex": 237
   },
   {
@@ -8465,7 +9949,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 27,
+    "les": 12,
     "articleLes": [
       14
     ],
@@ -8510,6 +9994,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "2.4 Ziekmelding",
     "_sourceIndex": 238
   },
   {
@@ -8518,7 +10003,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 27,
+    "les": 12,
     "articleLes": [
       1
     ],
@@ -8563,6 +10048,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.1 Tips om goed te leren",
     "_sourceIndex": 239
   },
   {
@@ -8571,7 +10057,7 @@
     "ipa": "",
     "pos": "verb",
     "category": "verb",
-    "les": 27,
+    "les": 13,
     "articleLes": [
       6
     ],
@@ -8616,6 +10102,7 @@
     },
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "1.6 Beste buurtbewoner",
     "_sourceIndex": 240
   },
   {
@@ -8624,14 +10111,30 @@
     "ipa": "",
     "pos": "adverb",
     "category": "preposition",
-    "les": 27,
+    "les": 13,
     "articleLes": [],
-    "examples": {},
-    "examExamples": {},
-    "beginnerExamples": {},
+    "examples": {
+      "a1": {
+        "nl": "Zonder commentaar.",
+        "en": "No comment."
+      }
+    },
+    "examExamples": {
+      "a1": {
+        "nl": "Zonder commentaar.",
+        "en": "No comment."
+      }
+    },
+    "beginnerExamples": {
+      "a1": {
+        "nl": "Zonder commentaar.",
+        "en": "No comment."
+      }
+    },
     "grammar": null,
     "deck": "common",
     "source": "Quizlet reading/listening exam vocabulary",
+    "exampleSource": "Tatoeba",
     "_sourceIndex": 241
   }
 ]

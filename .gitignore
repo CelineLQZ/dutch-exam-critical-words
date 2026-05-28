@@ -2,6 +2,7 @@
 .netlify/
 .claude/
 tools/.dictionary-api-cache.json
+tools/.tatoeba-example-cache.json
 node_modules/
 dist/
 build/

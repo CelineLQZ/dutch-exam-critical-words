@@ -7,7 +7,6 @@ const SHELL = [
   './styles.css',
   './store.js',
   './tts.js',
-  './sentence-grammar-data.js',
   './swipe-deck.jsx',
   './card.jsx',
   './screens.jsx',

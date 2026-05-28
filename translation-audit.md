@@ -1,9 +1,10 @@
 # Translation audit
 
 - Source rows: 242
-- Deck lessons: 30
-- Words with mock-exam examples: 151
-- POS counts: adjective 10, adverb 24, noun 82, other 26, phrase 23, verb 77
+- Deck lessons: 13
+- Words with examples: 242
+- Example sources: mock exam 159, Tatoeba 81, generated fallback 2
+- POS counts: adjective 12, adverb 28, noun 82, other 26, phrase 23, verb 71
 
 ## Corrections / notes
 
